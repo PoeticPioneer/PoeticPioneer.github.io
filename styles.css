@@ -4,5 +4,7 @@ body {
 
 .about {
     color: antiquewhite;
-    background-color: palevioletred;
+    background-image: linear-gradient(to bottom right, rgb(246, 132, 200), rgb(194, 17, 239));
+    width: 100%;
+
 }
